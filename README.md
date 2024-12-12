@@ -4,8 +4,8 @@ This repository provides an overview of the datasets and tools used in the study
 **"Uncovering the Diagnostic Power of Radiomic Feature Significance in Automated Lung Cancer Detection: An Integrative Analysis of Texture, Shape, and Intensity Contributions."**
 
 ## Datasets
-- **NSCLC-Radiomics**: [Link to dataset](https://www.cancerimagingarchive.net/) (Accessed on: YYYY-MM-DD)
-- **RIDER datasets**: [Link to dataset](https://www.cancerimagingarchive.net/) (Accessed on: YYYY-MM-DD)
+- **NSCLC-Radiomics**: [Link to dataset](https://www.cancerimagingarchive.net/collection/nsclc-radiomics/) (Accessed on: 2024-12-12)
+- **RIDER datasets**: [Link to dataset](https://www.cancerimagingarchive.net/collection/rider-lung-ct/) (Accessed on: 2024-12-12)
 - **Private Clinical Data**: Obtained from clinical collaborators (not publicly available due to ethical restrictions).
 
 ## Tools and Libraries
