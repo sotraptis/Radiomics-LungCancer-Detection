@@ -5,7 +5,7 @@ This repository provides an overview of the datasets and tools used in the study
 
 ## Datasets
 - **NSCLC-Radiomics**: [Link to dataset](https://www.cancerimagingarchive.net/collection/nsclc-radiomics/) (Accessed on: 2024-12-12)
-- **RIDER datasets**: [Link to dataset](https://www.cancerimagingarchive.net/collection/rider-lung-ct/) (Accessed on: 2024-12-12)
+- **RIDER datasets**: [Link to dataset](https://www.cancerimagingarchive.net/analysis-result/rider-lungct-seg/) (Accessed on: 2024-12-12)
 - **Private Clinical Data**: Obtained from clinical collaborators (not publicly available due to ethical restrictions).
 
 ## Tools and Libraries
@@ -21,7 +21,7 @@ The study aims to improve the diagnostic accuracy of lung cancer detection throu
 - Source code for feature extraction and model development.
 
 ## Citation
-If you use this repository, please cite our study:
+If you use this repository, please cite our study: DOI: https://doi.org/10.20944/preprints202411.1621.v1
 ## License
 
 This repository is made available under the terms of the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).  
